@@ -1,0 +1,22 @@
+{
+  "name": "nbfrank-utils-npm",
+  "version": "1.0.0",
+  "description": "工具函数包",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "serve": "rollup -c -w"
+  },
+  "files": [
+    "es/*",
+    "dist/*"
+  ],
+  "author": "nbFrank",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@rollup/plugin-babel": "^6.0.3",
+    "rollup": "^3.28.0"
+  }
+}
