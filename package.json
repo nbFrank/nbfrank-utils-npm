@@ -1,6 +1,6 @@
 {
   "name": "nbfrank-utils-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "工具函数包",
   "main": "dist/index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "es/*",
     "dist/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nbFrank/nbfrank-utils-npm.git"
+  },
   "author": "nbFrank",
   "license": "ISC",
   "dependencies": {
