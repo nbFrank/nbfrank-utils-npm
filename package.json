@@ -16,7 +16,7 @@
     "url": "https://github.com/nbFrank/nbfrank-utils-npm.git"
   },
   "author": "nbFrank",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.22.10",
     "@babel/preset-env": "^7.22.10",
